@@ -9,15 +9,15 @@ you can install on EVE-ENG
  A: Accounting (capture your doing)
 
  AAA servers work with 2 protocol
- - TACACS+
-   -for Device Administration
-   -TCP
-   -all packets encrypted between ACS server and router
-   -powerfull in Authorization
-   -ideal for Network admins(because can manage commands in routers and switchs )
- - RADIUS
-   -for Network Access
-   -UDP
-   -only the password is encrypted
-   -powerful in accounting
-   -ideal for endpoints users or NAC(Network access control )
+ - TACACS+<br>
+   -for Device Administration<br>
+   -TCP<br>
+   -all packets encrypted between ACS server and router<br>
+   -powerfull in Authorization<br>
+   -ideal for Network admins(because can manage commands in routers and switchs)<br>
+ - RADIUS<br>
+   -for Network Access<br>
+   -UDP<br>
+   -only the password is encrypted<br>
+   -powerful in accounting<br>
+   -ideal for endpoints users or NAC(Network access control)<br>
